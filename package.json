@@ -1,0 +1,15 @@
+{
+  "name": "starcar-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "chimp --mocha --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chimp": "^0.50.2",
+    "xmldom": "^0.1.27"
+  }
+}

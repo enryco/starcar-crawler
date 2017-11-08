@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "chimp --mocha --watch"
+    "test-watch": "chimp --mocha --watch",
+    "get": "chimp ./chimp-config.js --mocha"
   },
   "author": "",
   "license": "ISC",
